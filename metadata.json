@@ -1,6 +1,0 @@
-{
-  "name": "酒店智能体宣传页",
-  "description": "专业酒店AI智能体宣传网页，展示AI如何赋能酒店降本增效增收。",
-  "requestFramePermissions": [],
-  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
-}
